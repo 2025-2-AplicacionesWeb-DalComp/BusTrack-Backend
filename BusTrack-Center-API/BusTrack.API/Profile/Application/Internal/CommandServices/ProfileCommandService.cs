@@ -1,8 +1,8 @@
-using ACME.LearningCenterPlatform.API.Profiles.Domain.Model.Aggregates;
-using ACME.LearningCenterPlatform.API.Profiles.Domain.Model.Command;
-using ACME.LearningCenterPlatform.API.Profiles.Domain.Repositories;
-using ACME.LearningCenterPlatform.API.Profiles.Domain.Services;
-using ACME.LearningCenterPlatform.API.Shared.Domain.Repositories;
+using BusTrack.API.Profiles.Domain.Model.Aggregates; // si no funciona usen al inicio using BusTrack_center_API
+using BusTrack.API.Profiles.Domain.Model.Command;
+using BusTrack.API.Profiles.Domain.Repositories;
+using BusTrack.API.Profiles.Domain.Services;
+using BusTrack.API.Shared.Domain.Repositories;
 using BCrypt.Net;
 
 namespace ACME.LearningCenterPlatform.API.Profiles.Application.Internal.CommandServices;
