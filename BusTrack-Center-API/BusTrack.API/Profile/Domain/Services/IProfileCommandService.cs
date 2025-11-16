@@ -1,7 +1,7 @@
 using BusTrack.API.Profiles.Domain.Model.Aggregates; // si no funciona usen al inicio using BusTrack_center_API
 using BusTrack.API.Profiles.Domain.Model.Command;
 
-namespace ACME.LearningCenterPlatform.API.Profiles.Domain.Services;
+namespace BusTrack.API.Profiles.Domain.Services;
 /// <summary>
 ///     Profile Command Service Interface
 /// </summary>
