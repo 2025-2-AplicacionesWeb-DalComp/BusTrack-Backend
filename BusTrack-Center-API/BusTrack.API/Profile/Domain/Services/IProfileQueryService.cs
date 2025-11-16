@@ -1,7 +1,7 @@
-using ACME.LearningCenterPlatform.API.Profiles.Domain.Model.Aggregates;
-using ACME.LearningCenterPlatform.API.Profiles.Domain.Model.Query;
+using BusTrack.API.Profiles.Domain.Model.Aggregates; // si no funciona usen al inicio using BusTrack_center_API
+using BusTrack.API.Profiles.Domain.Model.Query;
 
-namespace ACME.LearningCenterPlatform.API.Profiles.Domain.Services;
+namespace BusTrack.API.Profiles.Domain.Services;
 /// <summary>
 ///     Profile Query Service Interface
 /// </summary>
