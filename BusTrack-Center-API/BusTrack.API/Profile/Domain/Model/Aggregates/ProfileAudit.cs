@@ -1,7 +1,7 @@
 using System.ComponentModel.DataAnnotations.Schema;
 using EntityFrameworkCore.CreatedUpdatedDate.Contracts;
 
-namespace ACME.LearningCenterPlatform.API.Profiles.Domain.Model.Aggregates;
+namespace BusTrack.API.Profiles.Domain.Model.Aggregates; // si no funciona usen al inicio using BusTrack_center_API
 
 public partial class Profile : IEntityWithCreatedUpdatedDate
 {
