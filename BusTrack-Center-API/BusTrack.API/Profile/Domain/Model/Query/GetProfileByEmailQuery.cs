@@ -1,6 +1,6 @@
-using ACME.LearningCenterPlatform.API.Profiles.Domain.Model.ValueObjects;
+using BusTrack.API.Profiles.Domain.Model.ValueObjects; // si no funciona usen al inicio using BusTrack_center_API
 
-namespace ACME.LearningCenterPlatform.API.Profiles.Domain.Model.Query;
+namespace BusTrack.API.Profiles.Domain.Model.Query;
 /// <summary>
 ///     Get Profile By Email Query
 /// </summary>
