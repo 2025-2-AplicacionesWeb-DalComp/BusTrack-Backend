@@ -1,4 +1,4 @@
-﻿namespace ACME.LearningCenterPlatform.API.Profiles.Domain.Model.Command;
+﻿namespace BusTrack.API.Profiles.Domain.Model.Command; // si no funciona usen al inicio using BusTrack_center_API
 
 /// <summary>
 /// Command to update a profile.
@@ -9,4 +9,5 @@
 public record UpdateProfileCommand(
     int ProfileId,
     string Username,
+
     string PhotoUrl);
