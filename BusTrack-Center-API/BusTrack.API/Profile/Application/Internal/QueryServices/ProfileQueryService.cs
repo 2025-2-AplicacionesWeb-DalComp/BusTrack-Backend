@@ -3,7 +3,7 @@ using BusTrack.API.Profiles.Domain.Model.Query;
 using BusTrack.API.Profiles.Domain.Repositories;
 using BusTrack.API.Profiles.Domain.Services;
 
-namespace ACME.LearningCenterPlatform.API.Profiles.Application.Internal.QueryServices;
+namespace BusTrack.API.Profiles.Application.Internal.QueryServices;
 
 public class ProfileQueryService(IProfileRepository profileRepository) : IProfileQueryService
 {
