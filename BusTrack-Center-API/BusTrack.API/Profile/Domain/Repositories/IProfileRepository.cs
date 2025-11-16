@@ -2,7 +2,7 @@ using BusTrack.API.Profiles.Domain.Model.Aggregates; // si no funciona usen al i
 using BusTrack.API.Profiles.Domain.Model.ValueObjects;
 using BusTrack.API.Shared.Domain.Repositories;
 
-namespace ACME.LearningCenterPlatform.API.Profiles.Domain.Repositories;
+namespace BusTrack.API.Profiles.Domain.Repositories;
 /// <summary>
 ///     Profile repository interface
 /// </summary>
