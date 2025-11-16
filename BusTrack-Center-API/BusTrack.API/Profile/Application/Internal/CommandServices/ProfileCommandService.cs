@@ -5,7 +5,7 @@ using BusTrack.API.Profiles.Domain.Services;
 using BusTrack.API.Shared.Domain.Repositories;
 using BCrypt.Net;
 
-namespace ACME.LearningCenterPlatform.API.Profiles.Application.Internal.CommandServices;
+namespace BusTrack.API.Profiles.Application.Internal.CommandServices;
 
 public class ProfileCommandService(
     IProfileRepository profileRepository,
