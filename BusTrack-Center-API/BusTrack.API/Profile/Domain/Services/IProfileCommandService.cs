@@ -1,5 +1,5 @@
-using ACME.LearningCenterPlatform.API.Profiles.Domain.Model.Aggregates;
-using ACME.LearningCenterPlatform.API.Profiles.Domain.Model.Command;
+using BusTrack.API.Profiles.Domain.Model.Aggregates; // si no funciona usen al inicio using BusTrack_center_API
+using BusTrack.API.Profiles.Domain.Model.Command;
 
 namespace ACME.LearningCenterPlatform.API.Profiles.Domain.Services;
 /// <summary>
