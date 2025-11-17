@@ -30,9 +30,14 @@
     <ItemGroup>
       <Folder Include="BC3(lecambiasdenombre3)\" />
       <Folder Include="BC4(lecambiasdenombre4)\" />
-      <Folder Include="BC5(lecambiasdenombre5)\" />
+      <Folder Include="BusStops\Application\" />
+      <Folder Include="BusStops\Domain\Model\Aggregates\" />
+      <Folder Include="BusStops\Domain\Repositories\" />
+      <Folder Include="BusStops\Domain\Services\" />
+      <Folder Include="BusStops\Infrastructure\" />
+      <Folder Include="BusStops\Interfaces\" />
       <Folder Include="Notifications\" />
-      <Folder Include="Searchroutes\" />
+      <Folder Include="Searchroutes\Interfaces\" />
     </ItemGroup>
 
 </Project>
