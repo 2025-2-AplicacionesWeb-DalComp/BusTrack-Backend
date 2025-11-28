@@ -8273,11 +8273,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\joaqu\\MiPC\\UPC\\6 CICLO\\App Web\\backweb\\BusTrack-Center-API\\BusTrack.API\\BusTrack.API.csproj",
+      "projectUniqueName": "D:\\joaqu\\MiPC\\UPC\\6 CICLO\\App Web\\backweb\\BusTrack-Backend\\BusTrack-Center-API\\BusTrack.API\\BusTrack.API.csproj",
       "projectName": "BusTrack.API",
-      "projectPath": "D:\\joaqu\\MiPC\\UPC\\6 CICLO\\App Web\\backweb\\BusTrack-Center-API\\BusTrack.API\\BusTrack.API.csproj",
+      "projectPath": "D:\\joaqu\\MiPC\\UPC\\6 CICLO\\App Web\\backweb\\BusTrack-Backend\\BusTrack-Center-API\\BusTrack.API\\BusTrack.API.csproj",
       "packagesPath": "C:\\Users\\joaqu\\.nuget\\packages\\",
-      "outputPath": "D:\\joaqu\\MiPC\\UPC\\6 CICLO\\App Web\\backweb\\BusTrack-Center-API\\BusTrack.API\\obj\\",
+      "outputPath": "D:\\joaqu\\MiPC\\UPC\\6 CICLO\\App Web\\backweb\\BusTrack-Backend\\BusTrack-Center-API\\BusTrack.API\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\joaqu\\AppData\\Roaming\\NuGet\\NuGet.Config"

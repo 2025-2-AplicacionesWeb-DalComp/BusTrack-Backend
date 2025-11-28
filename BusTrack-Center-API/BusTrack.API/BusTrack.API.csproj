@@ -31,7 +31,6 @@
       <Folder Include="BC3(lecambiasdenombre3)\" />
       <Folder Include="BC4(lecambiasdenombre4)\" />
       <Folder Include="BC5(lecambiasdenombre5)\" />
-      <Folder Include="Notifications\" />
       <Folder Include="Searchroutes\" />
     </ItemGroup>
 

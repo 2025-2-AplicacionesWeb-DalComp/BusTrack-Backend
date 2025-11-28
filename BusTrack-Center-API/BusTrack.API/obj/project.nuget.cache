@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "Jrmkhbk1B2o=",
+  "dgSpecHash": "uiuGhKOqvLs=",
   "success": true,
-  "projectFilePath": "D:\\joaqu\\MiPC\\UPC\\6 CICLO\\App Web\\backweb\\BusTrack-Center-API\\BusTrack.API\\BusTrack.API.csproj",
+  "projectFilePath": "D:\\joaqu\\MiPC\\UPC\\6 CICLO\\App Web\\backweb\\BusTrack-Backend\\BusTrack-Center-API\\BusTrack.API\\BusTrack.API.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\joaqu\\.nuget\\packages\\bcrypt.net-next\\4.0.3\\bcrypt.net-next.4.0.3.nupkg.sha512",
     "C:\\Users\\joaqu\\.nuget\\packages\\bouncycastle.cryptography\\2.6.2\\bouncycastle.cryptography.2.6.2.nupkg.sha512",
