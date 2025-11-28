@@ -1,3 +1,4 @@
+using BusTrack_center_API.Searchroutes.Infrastructure.Persistence.EFC.Configuration.Extensions;
 using BusTrack_center_API.Shared.Infrastructure.Persistence.EFC.Configuration.Extensions;
 using EntityFrameworkCore.CreatedUpdatedDate.Extensions;
 using Microsoft.EntityFrameworkCore;
@@ -18,9 +19,8 @@ public class AppDbContext(DbContextOptions options) : DbContext(options)
         
         // Create all entities configurations
         
-        //Publishing Context
-        
-
+        //Ruta Context
         builder.UseSnakeCaseNamingConvention();
+        builder.ApplyRutaConfiguration();
     }
 }

@@ -37,7 +37,6 @@
       <Folder Include="BusStops\Infrastructure\" />
       <Folder Include="BusStops\Interfaces\" />
       <Folder Include="Notifications\" />
-      <Folder Include="Searchroutes\Interfaces\" />
     </ItemGroup>
 
 </Project>
